@@ -2,6 +2,6 @@
 npm-debug.log
 node_modules/
 coverage/
-dist/
+# dist/
 mochawesome-report/
 .nyc_output/

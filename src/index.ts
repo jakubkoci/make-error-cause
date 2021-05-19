@@ -1,5 +1,5 @@
 import * as makeError from "make-error";
-import { inspect } from "util";
+import * as inspect from "util-inspect";
 
 /**
  * @internal
